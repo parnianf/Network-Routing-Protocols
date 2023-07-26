@@ -11,6 +11,7 @@ In link-state routing protocols, each router possesses information about the com
 
 This contrasts with distance-vector routing protocols, which work by having each node share its routing table with its neighbors. In a link-state protocol, the only information passed between the nodes is the information used to construct the connectivity maps. 
 
+<br>
 
 ### Contributors
 * [Parnian Fazel](https://github.com/parnianf/)
